@@ -4,30 +4,8 @@
       "primary": {
         "fill": {
           "default": {
-            "value": "{core.color.brand.01}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{core.color.modify.100}",
-                  "space": "hsl"
-                }
-              }
-            }
-          },
-          "hover": {
-            "value": "{color.interactive.primary.fill.default}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "{core.color.modify.100}",
-                  "space": "hsl"
-                }
-              }
-            }
+            "value": "{color.brand.01}",
+            "type": "color"
           },
           "pressed": {
             "value": "{color.interactive.primary.fill.default}",
