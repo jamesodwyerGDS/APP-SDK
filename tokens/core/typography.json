@@ -65,7 +65,7 @@
           "type": "fontSizes"
         },
         "base": {
-          "value": "16px",
+          "value": "16",
           "type": "fontSizes"
         }
       },

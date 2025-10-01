@@ -1,0 +1,80 @@
+{
+  "color": {
+    "brand": {
+      "01": {
+        "value": "#024ddf",
+        "type": "color"
+      },
+      "02": {
+        "value": "#121212",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "green": {
+        "value": "#01A469",
+        "type": "color"
+      },
+      "red": {
+        "value": "#EB0000",
+        "type": "color"
+      },
+      "purple": {
+        "value": "#A733FF",
+        "type": "color"
+      },
+      "orange": {
+        "value": "#FFB932",
+        "type": "color"
+      },
+      "turquoise": {
+        "value": "#21FFF2",
+        "type": "color"
+      },
+      "yellow": {
+        "value": "#FBFF2C",
+        "type": "color"
+      },
+      "blue": {
+        "value": "#207de5",
+        "type": "color"
+      },
+      "magenta": {
+        "value": "#D0006F",
+        "type": "color"
+      }
+    },
+    "neutrals": {
+      "gray-8": {
+        "value": "#999999",
+        "type": "color"
+      },
+      "gray-7": {
+        "value": "#BFBFBF",
+        "type": "color"
+      },
+      "gray-6": {
+        "value": "#D6D6D6",
+        "type": "color"
+      },
+      "gray-5": {
+        "value": "#EBEBEB",
+        "type": "color"
+      },
+      "gray-4": {
+        "value": "#F6F6F6",
+        "type": "color"
+      }
+    },
+    "common": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      }
+    }
+  }
+}

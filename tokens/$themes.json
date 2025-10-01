@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "core/typography": "enabled",
       "semantic/SDK-typography": "enabled",
-      "brand/SDK-font-family": "enabled"
+      "brand/SDK-font-family": "enabled",
+      "brand/colour": "enabled"
     },
     "$figmaStyleReferences": {
       "elevation-level-2": "S:0848adff8c4c109a7fabf13dda1858d1ccd8b425,",
@@ -320,7 +321,8 @@
     "selectedTokenSets": {
       "core/typography": "enabled",
       "brand/APP-font-family": "enabled",
-      "semantic/APP-typography": "enabled"
+      "semantic/APP-typography": "enabled",
+      "brand/colour": "enabled"
     },
     "group": "Apps"
   }
