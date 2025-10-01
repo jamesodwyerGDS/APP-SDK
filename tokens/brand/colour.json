@@ -8,6 +8,10 @@
       "02": {
         "value": "#121212",
         "type": "color"
+      },
+      "03": {
+        "value": "#1791FF",
+        "type": "color"
       }
     },
     "accent": {
@@ -42,26 +46,38 @@
       "magenta": {
         "value": "#D0006F",
         "type": "color"
+      },
+      "pink": {
+        "value": "#FF47A9",
+        "type": "color"
       }
     },
     "neutrals": {
+      "gray-9": {
+        "value": "#242424",
+        "type": "color"
+      },
       "gray-8": {
-        "value": "#999999",
+        "value": "#646464",
         "type": "color"
       },
       "gray-7": {
-        "value": "#BFBFBF",
+        "value": "#949494",
         "type": "color"
       },
       "gray-6": {
-        "value": "#D6D6D6",
+        "value": "#BFBFBF",
         "type": "color"
       },
       "gray-5": {
-        "value": "#EBEBEB",
+        "value": "#D6D6D6",
         "type": "color"
       },
       "gray-4": {
+        "value": "#EBEBEB",
+        "type": "color"
+      },
+      "gray-3": {
         "value": "#F6F6F6",
         "type": "color"
       }
