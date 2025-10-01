@@ -1,0 +1,178 @@
+{
+  "core": {
+    "typography": {
+      "font-weight": {
+        "light": {
+          "value": "300",
+          "type": "fontWeights"
+        },
+        "regular": {
+          "value": "400",
+          "type": "fontWeights"
+        },
+        "semibold": {
+          "value": "600",
+          "type": "fontWeights"
+        },
+        "bold": {
+          "value": "700",
+          "type": "fontWeights"
+        },
+        "extrabold": {
+          "value": "800",
+          "type": "fontWeights"
+        },
+        "black": {
+          "value": "900",
+          "type": "fontWeights"
+        }
+      },
+      "font-size": {
+        "100": {
+          "value": "{core.typography.font-size.base}*1",
+          "type": "fontSizes"
+        },
+        "112": {
+          "value": "{core.typography.font-size.base}*1.125",
+          "type": "fontSizes"
+        },
+        "137": {
+          "value": "{core.typography.font-size.base}*1.375",
+          "type": "fontSizes"
+        },
+        "162": {
+          "value": "{core.typography.font-size.base}*1.625",
+          "type": "fontSizes"
+        },
+        "200": {
+          "value": "{core.typography.font-size.base}*2",
+          "type": "fontSizes"
+        },
+        "275": {
+          "value": "{core.typography.font-size.base}*2.75",
+          "type": "fontSizes"
+        },
+        "375": {
+          "value": "{core.typography.font-size.base}*3.75",
+          "type": "fontSizes"
+        },
+        "075": {
+          "value": "{core.typography.font-size.base}*0.75",
+          "type": "fontSizes"
+        },
+        "087": {
+          "value": "{core.typography.font-size.base}*0.875",
+          "type": "fontSizes"
+        },
+        "base": {
+          "value": "16px",
+          "type": "fontSizes"
+        }
+      },
+      "line-height": {
+        "25": {
+          "value": "{core.typography.line-height.100}*0.625",
+          "type": "lineHeights"
+        },
+        "50": {
+          "value": "{core.typography.line-height.100}*0.75",
+          "type": "lineHeights"
+        },
+        "75": {
+          "value": "{core.typography.line-height.100}*0.875",
+          "type": "lineHeights"
+        },
+        "100": {
+          "value": "16",
+          "type": "lineHeights"
+        },
+        "150": {
+          "value": "{core.typography.line-height.100}*1.125",
+          "type": "lineHeights"
+        },
+        "175": {
+          "value": "{core.typography.line-height.100}*1.25",
+          "type": "lineHeights"
+        },
+        "200": {
+          "value": "{core.typography.line-height.100}*1.5",
+          "type": "lineHeights"
+        },
+        "250": {
+          "value": "{core.typography.line-height.100}*1.75",
+          "type": "lineHeights"
+        },
+        "300": {
+          "value": "{core.typography.line-height.100}*2",
+          "type": "lineHeights"
+        },
+        "350": {
+          "value": "{core.typography.line-height.100}*2.125",
+          "type": "lineHeights"
+        },
+        "400": {
+          "value": "{core.typography.line-height.100}*2.25",
+          "type": "lineHeights"
+        },
+        "450": {
+          "value": "{core.typography.line-height.100}*2.5",
+          "type": "lineHeights"
+        },
+        "500": {
+          "value": "{core.typography.line-height.100}*2.75",
+          "type": "lineHeights"
+        },
+        "550": {
+          "value": "{core.typography.line-height.100}*3",
+          "type": "lineHeights"
+        },
+        "600": {
+          "value": "{core.typography.line-height.100}*3.125",
+          "type": "lineHeights"
+        },
+        "650": {
+          "value": "{core.typography.line-height.100}*3.25",
+          "type": "lineHeights"
+        },
+        "700": {
+          "value": "{core.typography.line-height.100}*3.375",
+          "type": "lineHeights"
+        },
+        "800": {
+          "value": "{core.typography.line-height.100}*4",
+          "type": "lineHeights"
+        },
+        "full": {
+          "value": "100%",
+          "type": "lineHeights"
+        }
+      },
+      "letter-spacing": {
+        "100": {
+          "value": "1%",
+          "type": "letterSpacing"
+        },
+        "300": {
+          "value": "3%",
+          "type": "letterSpacing"
+        },
+        "800": {
+          "value": "15%",
+          "type": "letterSpacing"
+        },
+        "neg-300": {
+          "value": "-3%",
+          "type": "letterSpacing"
+        },
+        "neg-200": {
+          "value": "-1.20%",
+          "type": "letterSpacing"
+        },
+        "neg-100": {
+          "value": "-0.50%",
+          "type": "letterSpacing"
+        }
+      }
+    }
+  }
+}

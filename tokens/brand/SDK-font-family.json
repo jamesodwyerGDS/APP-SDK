@@ -1,0 +1,12 @@
+{
+  "core": {
+    "typography": {
+      "font-family": {
+        "01": {
+          "value": "Source Sans 3",
+          "type": "fontFamilies"
+        }
+      }
+    }
+  }
+}

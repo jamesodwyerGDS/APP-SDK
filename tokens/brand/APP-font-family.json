@@ -1,0 +1,12 @@
+{
+  "core": {
+    "typography": {
+      "font-family": {
+        "01": {
+          "value": "Averta",
+          "type": "fontFamilies"
+        }
+      }
+    }
+  }
+}
