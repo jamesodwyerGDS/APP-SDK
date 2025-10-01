@@ -324,6 +324,7 @@
       "semantic/APP-typography": "enabled",
       "brand/colour": "enabled"
     },
-    "group": "Apps"
+    "group": "Apps",
+    "$figmaVariableReferences": {}
   }
 ]
