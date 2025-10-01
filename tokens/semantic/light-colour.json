@@ -1,0 +1,16 @@
+{
+  "colour": {
+    "fg": {
+      "light": {
+        "$type": "color",
+        "$value": "#000"
+      }
+    },
+    "bg": {
+      "light": {
+        "$type": "color",
+        "$value": "#fff"
+      }
+    }
+  }
+}
