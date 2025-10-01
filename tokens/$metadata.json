@@ -5,6 +5,7 @@
     "brand/SDK-font-family",
     "brand/APP-font-family",
     "semantic/SDK-typography",
-    "semantic/APP-typography"
+    "semantic/APP-typography",
+    "semantic/colour-dark"
   ]
 }
