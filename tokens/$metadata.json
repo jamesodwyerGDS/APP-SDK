@@ -4,8 +4,8 @@
     "brand/colour",
     "brand/SDK-font-family",
     "brand/APP-font-family",
+    "semantic/colour-dark",
     "semantic/SDK-typography",
-    "semantic/APP-typography",
-    "colour-dark"
+    "semantic/APP-typography"
   ]
 }
