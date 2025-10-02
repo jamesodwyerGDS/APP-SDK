@@ -1,0 +1,92 @@
+{
+  "core": {
+    "color": {
+      "modify": {
+        "50": {
+          "value": "{core.color.modify.100}/2",
+          "type": "other"
+        },
+        "100": {
+          "value": "0.1",
+          "type": "other"
+        },
+        "150": {
+          "value": "{core.color.modify.100}*1.5",
+          "type": "other"
+        },
+        "200": {
+          "value": "{core.color.modify.100}*2",
+          "type": "other"
+        },
+        "250": {
+          "value": "{core.color.modify.100}*2.5",
+          "type": "other"
+        },
+        "300": {
+          "value": "{core.color.modify.100}*3",
+          "type": "other"
+        },
+        "350": {
+          "value": "{core.color.modify.100}*3.5",
+          "type": "other"
+        },
+        "400": {
+          "value": "{core.color.modify.100}*4",
+          "type": "other"
+        },
+        "450": {
+          "value": "{core.color.modify.100}*4.5",
+          "type": "other"
+        },
+        "500": {
+          "value": "{core.color.modify.100}*5",
+          "type": "other"
+        },
+        "550": {
+          "value": "{core.color.modify.100}*5.5",
+          "type": "other"
+        },
+        "600": {
+          "value": "{core.color.modify.100}*6",
+          "type": "other"
+        },
+        "650": {
+          "value": "{core.color.modify.100}*6.5",
+          "type": "other"
+        },
+        "700": {
+          "value": "{core.color.modify.100}*7",
+          "type": "other"
+        },
+        "750": {
+          "value": "{core.color.modify.100}*7.5",
+          "type": "other"
+        },
+        "800": {
+          "value": "{core.color.modify.100}*8",
+          "type": "other"
+        },
+        "850": {
+          "value": "{core.color.modify.100}*8.5",
+          "type": "other"
+        },
+        "900": {
+          "value": "{core.color.modify.100}*9",
+          "type": "other"
+        },
+        "950": {
+          "value": "{core.color.modify.100}*9.5",
+          "type": "other"
+        },
+        "1000": {
+          "value": "{core.color.modify.100}*10",
+          "type": "other"
+        },
+        "zero": {
+          "value": "0",
+          "type": "other"
+        }
+      }
+    }
+  }
+}

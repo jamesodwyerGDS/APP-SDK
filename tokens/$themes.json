@@ -7,7 +7,8 @@
       "semantic/SDK-typography": "enabled",
       "brand/SDK-font-family": "enabled",
       "brand/colour": "enabled",
-      "semantic/colour-dark": "enabled"
+      "semantic/colour-dark": "enabled",
+      "core/modify": "enabled"
     },
     "$figmaStyleReferences": {
       "elevation-level-2": "S:0848adff8c4c109a7fabf13dda1858d1ccd8b425,",
@@ -324,7 +325,8 @@
       "brand/APP-font-family": "enabled",
       "semantic/APP-typography": "enabled",
       "brand/colour": "enabled",
-      "semantic/colour-dark": "enabled"
+      "semantic/colour-dark": "enabled",
+      "core/modify": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Apps"

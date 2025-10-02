@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
+    "core/modify",
     "core/typography",
     "brand/colour",
     "brand/SDK-font-family",
