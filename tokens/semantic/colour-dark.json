@@ -434,12 +434,6 @@
         }
       }
     },
-    "focus": {
-      "border": {
-        "value": "{core.color.brand.03}",
-        "type": "color"
-      }
-    },
     "text": {
       "primary​​": {
         "value": "{core.color.brand.03}",
