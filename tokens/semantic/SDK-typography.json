@@ -6,7 +6,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.black}",
           "fontSize": "{core.typography.font-size.375}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.750}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-300}"
         },
@@ -17,7 +17,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.extrabold}",
           "fontSize": "{core.typography.font-size.275}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.500}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-300}"
         },
@@ -28,7 +28,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.200}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.300}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-300}"
         },
@@ -39,7 +39,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.162}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.225}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-200}"
         },
