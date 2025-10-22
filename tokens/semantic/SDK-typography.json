@@ -1,12 +1,12 @@
 {
-  "typography": {
+  "SDK-typography": {
     "display": {
       "xlarge": {
         "value": {
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.black}",
           "fontSize": "{core.typography.font-size.375}",
-          "lineHeight": "{core.typography.line-height.750}",
+          "lineHeight": "{core.typography.line-height.375}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-300}"
         },
@@ -17,7 +17,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.extrabold}",
           "fontSize": "{core.typography.font-size.275}",
-          "lineHeight": "{core.typography.line-height.500}",
+          "lineHeight": "{core.typography.line-height.275}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-300}"
         },
@@ -28,7 +28,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.200}",
-          "lineHeight": "{core.typography.line-height.300}",
+          "lineHeight": "{core.typography.line-height.200}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-300}"
         },
@@ -39,7 +39,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.162}",
-          "lineHeight": "{core.typography.line-height.225}",
+          "lineHeight": "{core.typography.line-height.163}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-200}"
         },
@@ -50,7 +50,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.137}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.150}",
           "textCase": "uppercase",
           "letterSpacing": "{core.typography.letter-spacing.neg-100}"
         },
@@ -63,7 +63,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.regular}",
           "fontSize": "{core.typography.font-size.112}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.137}",
           "letterSpacing": "{core.typography.letter-spacing.neg-200}",
           "textCase": "capitalize"
         },
@@ -74,7 +74,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.100}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.137}",
           "textCase": "capitalize",
           "letterSpacing": "{core.typography.letter-spacing.neg-200}"
         },
@@ -87,7 +87,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.112}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.137}",
           "textCase": "capitalize",
           "letterSpacing": "{core.typography.letter-spacing.neg-200}"
         },
@@ -98,7 +98,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.100}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.113}",
           "textCase": "capitalize",
           "letterSpacing": "{core.typography.letter-spacing.neg-200}"
         },
@@ -109,7 +109,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.087}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.113}",
           "textCase": "capitalize",
           "letterSpacing": "{core.typography.letter-spacing.neg-200}"
         },
@@ -122,7 +122,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.regular}",
           "fontSize": "{core.typography.font-size.100}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.113}",
           "textCase": "none"
         },
         "type": "typography"
@@ -132,7 +132,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.bold}",
           "fontSize": "{core.typography.font-size.087}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.113}",
           "textCase": "uppercase"
         },
         "type": "typography"
@@ -142,7 +142,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.regular}",
           "fontSize": "{core.typography.font-size.075}",
-          "lineHeight": "{core.typography.line-height.full}",
+          "lineHeight": "{core.typography.line-height.113}",
           "textCase": "capitalize"
         },
         "type": "typography"
@@ -154,7 +154,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.regular}",
           "fontSize": "{core.typography.font-size.100}",
-          "lineHeight": "{core.typography.line-height.200}",
+          "lineHeight": "{core.typography.line-height.150}",
           "textCase": "none"
         },
         "type": "typography"
@@ -164,7 +164,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.regular}",
           "fontSize": "{core.typography.font-size.087}",
-          "lineHeight": "{core.typography.line-height.200}",
+          "lineHeight": "{core.typography.line-height.113}",
           "textCase": "capitalize"
         },
         "type": "typography"
@@ -176,7 +176,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.regular}",
           "fontSize": "{core.typography.font-size.087}",
-          "lineHeight": "{core.typography.line-height.150}",
+          "lineHeight": "{core.typography.line-height.113}",
           "textCase": "capitalize"
         },
         "type": "typography"
@@ -186,7 +186,7 @@
           "fontFamily": "{core.typography.font-family.01}",
           "fontWeight": "{core.typography.font-weight.regular}",
           "fontSize": "{core.typography.font-size.075}",
-          "lineHeight": "{core.typography.line-height.150}",
+          "lineHeight": "{core.typography.line-height.113}",
           "textCase": "capitalize"
         },
         "type": "typography"

@@ -82,6 +82,10 @@
           "value": "{core.typography.line-height.100}*1.25",
           "type": "lineHeights"
         },
+        "137": {
+          "value": "{core.typography.line-height.100}*1.375",
+          "type": "lineHeights"
+        },
         "150": {
           "value": "{core.typography.line-height.100}*1.5",
           "type": "lineHeights"
