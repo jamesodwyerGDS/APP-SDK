@@ -23,7 +23,7 @@
         },
         "text": {
           "default": {
-            "value": "{core.color.brand.03}",
+            "value": "{color.common.white}",
             "type": "color"
           },
           "hover": {
