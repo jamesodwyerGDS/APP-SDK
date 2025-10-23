@@ -191,6 +191,18 @@
         },
         "type": "typography"
       }
+    },
+    "titleCase": {
+      "value": {
+        "textCase": "Capitalize"
+      },
+      "type": "typography"
+    },
+    "uppercase": {
+      "value": {
+        "textCase": "uppercase"
+      },
+      "type": "typography"
     }
   }
 }
